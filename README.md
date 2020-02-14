@@ -1,3 +1,3 @@
 # hello-world
 
-No inspiration to tell you people anything
+Little inspiration to tell you people anything
